@@ -1,6 +1,4 @@
-= Learning JavaScript, 3rd Edition
+# Javascript testing project
 
-== Chapter 2: JavaScript Development Tools
-
-In this chapter we're learning about Git and other
-development tools.
+Simple project for personal use to test out ES6, node
+and other javascript associated things.
